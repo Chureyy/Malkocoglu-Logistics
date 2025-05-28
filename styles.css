@@ -162,3 +162,14 @@ a {
     display: block;
   }
 }
+
+.team-member h3 {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  color: #ffb703; /* Görünür açık sarı */
+}
+
+.team-member p {
+  color: #ddd; /* Gri yazı */
+}
+
